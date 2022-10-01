@@ -1,6 +1,6 @@
 
 
-<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Android-#E4405F?style=flat&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-#E4405F?style=flat&logo=Android&logoColor=white"/></a>
 
 <!--
 **Rapidshot282/Rapidshot282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
