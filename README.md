@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/re34349598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 <!--
 **Rapidshot282/Rapidshot282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
