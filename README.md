@@ -1,7 +1,5 @@
 ### Hello Everyone! 👋<br/>
 ## I'm Minsu <br/>
-![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
-[![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
 
 <div align="center">
 🪄Interested in<br/>
@@ -15,6 +13,10 @@
 <br/>
 <br/>
 </div>
+  
+![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
+[![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
+
 
 <!--
 **Rapidshot282/Rapidshot282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
