@@ -1,8 +1,8 @@
 # Hello Everyone! 👋 <br/><br/>
 ## I'm Minsu
+[![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rapidshot282)](https://github.com/Rapidshot282/github-readme-stats)
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165"> 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapidshot282&layout=Demo&theme=dark)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align=center>
