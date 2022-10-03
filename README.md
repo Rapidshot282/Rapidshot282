@@ -3,7 +3,7 @@
 ![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
 [![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
 
-## Interested in🪄%I've used before<br/>
+Interested in🪄 I've used before<br/>
  
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
