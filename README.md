@@ -3,8 +3,8 @@
 <div align="center">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
-</div>
 <br/>
+</div>
 <div align="center">
   <br/>
 🪄Interested in<br/>
