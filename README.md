@@ -13,7 +13,7 @@
  <br/>
   🪄Interested in🪄<br/>
   I've used before<br/>
-  <img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   
 </div>
 
