@@ -4,10 +4,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
 
-<div align="center">
-  <br/>
+
+<br/>
 ## Interested in
-  <br/>
+<br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
 <br/>
