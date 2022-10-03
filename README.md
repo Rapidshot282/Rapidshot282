@@ -7,7 +7,7 @@
 <div align="center">
 🌈Social<br/>
 <br/>
-<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:re34349598@gmail.com)<br/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:re34349598@gmail.com)<br/>
 <br/>
 <br/>
 </div>
