@@ -2,7 +2,7 @@
 ## I'm Minsu <br/>
 
 <div align="center">
-🪄Interested in
+🪄Interested in<br/>
   <br/>
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
