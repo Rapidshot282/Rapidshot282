@@ -1,8 +1,6 @@
 ### Hello Everyone! 👋<br/>
 ## I'm Minsu <br/>
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
 
 
