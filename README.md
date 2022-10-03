@@ -3,20 +3,19 @@
 ![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
 [![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
 
-
-<div align="center">
-🌈Social<br/>
-<br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:re34349598@gmail.com)<br/>
-<br/>
-<br/>
-</div>
- 
 <div align="center">
 Interested in🪄<br/>
 I've used before<br/>
  
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+</div>
+
+<div align="center">
+🌈Social<br/>
+<br/>
+<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <br/>
+<br/>
+<br/>
 </div>
 
 <!--
