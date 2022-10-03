@@ -1,7 +1,7 @@
 # Hello Everyone! 👋 <br/><br/>
 ## I'm Minsu
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="185"> 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165"> 
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434" height="100">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align=center>
