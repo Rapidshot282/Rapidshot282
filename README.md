@@ -2,7 +2,7 @@
 ### I'm Minsu
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165"> 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align=center>
 🪄I'm interested in
