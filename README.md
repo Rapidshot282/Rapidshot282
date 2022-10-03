@@ -1,4 +1,4 @@
-###👋Hello Everyone! <br/>
+###Hello Everyone! 👋<br/>
 ### I'm Minsu
 <div align="center">
 🌻Social🌻<br/>
