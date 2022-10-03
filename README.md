@@ -2,7 +2,7 @@
 ## I'm Minsu
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="175"> 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434" height="175">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### :writing_hand: <b><span style="color:white">I'm interested in</span></b>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
