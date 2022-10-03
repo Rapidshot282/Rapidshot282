@@ -5,9 +5,9 @@
 
 <div align="center">
 🪄Interested in<br/>
-<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 </div>
-
+<br/>
 <div align="center">
 🌈Social<br/>
 <br/>
