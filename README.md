@@ -1,7 +1,7 @@
 ## Hello Everyone! 👋 <br/><br/>
 ### I'm Minsu
-<p align='center' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165"> 
-<p align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Rapidshot282" height="165"> 
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div align=center>
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-🌻Social<br/><br/>
+🌻Social
 <br/><br/>
 
 <a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://blog.naver.com/alstn3434" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <br/><br/>
