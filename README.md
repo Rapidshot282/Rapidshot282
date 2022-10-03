@@ -13,12 +13,10 @@
 🎓Learn
 <br/><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<br/><br/>
- 
+
 🌻Social
 <br/><br/>
 <a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://blog.naver.com/alstn3434" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
-<br/><br/>
 <br/><br/>
 
 </div>
