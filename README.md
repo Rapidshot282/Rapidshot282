@@ -4,7 +4,7 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434" height="175">
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<div align=center> <br/>
+<div align=center>
 ## :writing_hand:
 ## I'm interested in
 <br/><br/>
