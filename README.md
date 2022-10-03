@@ -3,6 +3,7 @@
 <div align="center">
 ![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
 [![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434">
 </div>
 <br/>
 <div align="center">
