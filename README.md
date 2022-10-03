@@ -1,6 +1,7 @@
 ### Hello Everyone! 👋<br/>
-## I'm Minsu 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434/)
+## I'm Minsu <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)<br/>
+
 
 <div align="center">
 🌈Social<br/>
