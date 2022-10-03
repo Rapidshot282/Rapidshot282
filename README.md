@@ -1,9 +1,10 @@
 ### Hello Everyone! 👋<br/>
 ## I'm Minsu <br/>
-
+<div align="center">
 ![re34349598's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidshot282&show_icons=true&theme=dark)
 [![Solved.ac alstn3434](http://mazassumnida.wtf/api/generate_badge?boj=alstn3434)](https://solved.ac/alstn3434)
-
+</div>
+<br/>
 <div align="center">
 🪄Interested in<br/>
   <br/>
@@ -22,6 +23,5 @@
 
 <!--
 **Rapidshot282/Rapidshot282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
