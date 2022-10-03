@@ -7,12 +7,13 @@
 <div align="center">
 🌈Social<br/>
  <br/>
-<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><a href="https://blog.naver.com/alstn3434" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/><img src="https://img.shields.io/badge/re34349598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br/>
-  <br/>
+<a href="https://www.instagram.com/minsusu_25/" target="_blank"><img src="https://img.shields.io/badge/Minsusu_25-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <a href="https://blog.naver.com/alstn3434" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/re34349598@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <br/>
+ <br/>
  <br/>
  <br/>
   🪄Interested in🪄<br/>
   I've used before<br/>
+ 
   <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   
 </div>
